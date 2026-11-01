@@ -1,0 +1,3 @@
+# VibePilot : fichiers propres à cette machine (non versionnés)
+.vibepilot/local/
+.vibepilot/**/*.bak
